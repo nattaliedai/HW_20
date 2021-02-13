@@ -1,0 +1,132 @@
+body {
+    font-family: 'Work Sans', sans-serif;
+}
+.navbar {
+    padding-top: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.hellotitle {
+    padding-top: 80px;
+    padding-bottom: 40px;
+}
+.hellooverview {
+    padding-top: 40px;
+    padding-left: 120px;
+    padding-right: 120px;
+    font-size: 18px;
+}
+.helloproblem {
+    padding-top: 40px;
+    padding-left: 120px;
+    padding-right: 120px;
+    font-size: 18px;
+}
+.helloconcept {
+    padding-top: 40px;
+    padding-left: 120px;
+    padding-right: 120px;
+    font-size: 18px;
+}
+.helloresearch {
+    padding-top: 40px;
+    padding-left: 120px;
+    padding-right: 120px;
+    font-size: 18px;
+}
+.studentandteacherinsightscontainer {
+    padding-top: 40px;
+    padding-left: 120px;
+    padding-right: 120px;
+    font-size: 18px;
+}
+.teacherjourneymap {
+    padding-top: 40px;
+    padding-left: 120px;
+    padding-right: 120px;
+    font-size: 18px;
+}
+.studentjourneymap {
+    padding-top: 40px;
+    padding-left: 120px;
+    padding-right: 120px;
+    font-size: 18px;
+}
+.helloproblemstatement {
+    padding-top: 40px;
+    padding-left: 120px;
+    padding-right: 120px;
+    font-size: 18px;
+}
+.helloideation {
+    padding-top: 40px;
+    padding-left: 120px;
+    padding-right: 120px;
+    font-size: 18px;
+}
+.hellofeatureprioritizationmatrix {
+    padding-top: 40px;
+    padding-left: 160px;
+    padding-right: 120px;
+    font-size: 18px;
+}
+.hellofeaturescontainer {
+    padding-top: 40px;
+    padding-left: 360px;
+    padding-right: 120px;
+    font-size: 18px;
+}
+.hellostudentuserflow {
+    padding-top: 40px;
+    padding-left: 160px;
+    padding-right: 120px;
+    font-size: 18px;
+}
+.hellodesign {
+    padding-top: 40px;
+    padding-left: 120px;
+    padding-right: 120px;
+    font-size: 18px;
+}
+.hellointegratedsketches {
+    padding-top: 40px;
+    padding-left: 120px;
+    padding-right: 120px;
+    font-size: 18px;
+}
+.hellousabilitytests {
+    padding-top: 80px;
+    padding-left: 120px;
+    padding-right: 120px;
+    font-size: 18px;
+}
+.hellousabilitytestscontainer {
+    padding-top: 80px;
+    padding-left: 120px;
+    padding-right: 120px;
+    font-size: 18px;
+}
+.hellousabilitytestscontainer .col {
+    margin: 20px;
+}
+.hellostyleguide {
+    padding-top: 80px;
+    padding-left: 120px;
+    padding-right: 120px;
+    font-size: 18px;
+}
+.hellohighfidelity {
+    padding-top: 80px;
+    padding-left: 120px;
+    padding-right: 120px;
+    font-size: 18px;
+}
+.hellohighfidelitybutton {
+    padding-top: 80px;
+}
+.hellolessonslearned {
+    padding-top: 80px;
+    padding-left: 120px;
+    padding-right: 120px;
+    font-size: 18px;
+}
